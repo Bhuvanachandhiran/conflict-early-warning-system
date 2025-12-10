@@ -34,10 +34,4 @@ Now live-forecasting **2025 conflict risk** using 2024 data.
 
 One click → full dataset download → model training → 2025 predictions
 
-## Why This Project Stands Out
-- Real-world impact (conflict prevention / humanitarian AI)
-- Rare dataset (not Kaggle Titanic #483920)
-- Perfect early-warning cases recruiters remember
-- Live 2025 forecasting capability
 
-Built in December 2025 | Always updating with latest UCDP data
