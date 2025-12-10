@@ -1,4 +1,4 @@
-# Armed Conflict Early Warning System (Africa) 🛡️ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Xxxxxxxxxxxxxxxxxxxxxxxxxxxxx)
+# Armed Conflict Early Warning System (Africa) 🛡️ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AiZU1VlZPBqWeOxAEZAQ1kBpnd9uJccu#scrollTo=Hi0jDCnjWYqo)
 
 **Random Forest model that successfully predicted:**
 - Tigray War (Ethiopia 2020) → **100% probability one year early**
