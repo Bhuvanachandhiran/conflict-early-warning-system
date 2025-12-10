@@ -8,7 +8,7 @@
 Now live-forecasting **2025 conflict risk** using 2024 data.
 
 ## 2025 Conflict Risk Forecast (Live Model Output)
-![2025 Forecast](https://github.com/yourusername/conflict-early-warning-system/blob/main/2025_forecast.png?raw=true)
+![2025 Forecast](https://github.com/Bhuvanachandhiran/conflict-early-warning-system/blob/main/Screenshot%202025-12-10%20150733.png?raw=true)
 
 **Extreme Risk Countries for 2025 (98%+ probability):**
 - Sudan · DRC · Nigeria · Somalia · South Sudan · Burkina Faso · Mali
@@ -30,7 +30,7 @@ Now live-forecasting **2025 conflict risk** using 2024 data.
 - Deployed as interactive Google Colab notebook
 
 ## Run It Yourself
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Xxxxxxxxxxxxxxxxxxxxxxxxxxxxx)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AiZU1VlZPBqWeOxAEZAQ1kBpnd9uJccu#scrollTo=Hi0jDCnjWYqo))
 
 One click → full dataset download → model training → 2025 predictions
 
